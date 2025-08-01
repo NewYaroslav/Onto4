@@ -1,6 +1,5 @@
-[For the Russian version of this README, see](README-RU.md).
-
 # Onto4
+[For the Russian version of this README, see](README-RU.md).
 
 **Onto4** is a four-valued logic in which the logical status of a statement depends not only on its truth or falsity but also on whether it is meaningful within a given context.
 
@@ -171,7 +170,7 @@ Onto4 is a tool for analyzing philosophical and linguistic paradoxes that are ha
 The project includes discussions of cases such as:
 
 - **The liar paradox** — why the phrase *"This statement is false"* has no meaning in Onto4:
-  📄 [docs/examples/liar-paradox-ru.md](docs/examples/liar-paradox-ru.md)
+  📄 [docs/examples/liar-paradox.md](docs/examples/liar-paradox.md)
 
 ---
 
@@ -181,4 +180,4 @@ Onto4 extends the classical truth table by adding the additional states `U` (und
 
 For details, see the tables of logical operators:
 
-📄 [docs/truth-tables-ru.md](docs/truth-tables-ru.md)
+📄 [docs/truth-tables.md](docs/truth-tables.md)
