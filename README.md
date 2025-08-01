@@ -157,10 +157,10 @@ This allows Onto4 to abandon the abstract observer for whom all statements alway
 
 | Logic | Values | Support for meaningless expressions | Indeterminacy | Self-reference | Features |
 |-------|--------|------------------------------------|---------------|----------------|----------|
-| **Classical logic** | T, F | ❌ | ❌ | 💥 paradox | Simple but inflexible. Everything is meaningful and evaluable. |
-| **Three-valued (Łukasiewicz, Kleene)** | T, F, U | ❌ | ✅ | 💥 paradox | Introduces "unknown" but still requires meaning |
-| **FDE / paraconsistent logic** | T, F, {T∧F} | ❌ | ✅ | 💥 paradox | Allows contradictions without collapse |
-| **Modal logic** | T, F across worlds | ❌ | ◼ | 💥 paradox | Extends classical logic via modalities |
+| **Classical logic** | T, F | ❌ | ❌ | paradox | Simple but inflexible. Everything is meaningful and evaluable. |
+| **Three-valued (Łukasiewicz, Kleene)** | T, F, U | ❌ | ✅ | paradox | Introduces "unknown" but still requires meaning |
+| **FDE / paraconsistent logic** | T, F, {T∧F} | ❌ | ✅ | paradox | Allows contradictions without collapse |
+| **Modal logic** | T, F across worlds | ❌ | ◼ | paradox | Extends classical logic via modalities |
 | **Onto4** | T, F, U, Ø | ✅ | ✅ | ✅ → Ø | Takes ontological admissibility into account, separates meaning from truth |
 
 ### Examples and philosophical analyses
