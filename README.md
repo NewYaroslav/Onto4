@@ -171,6 +171,8 @@ The project includes discussions of cases such as:
 
 - **The liar paradox** — why the phrase *"This statement is false"* has no meaning in Onto4:
   📄 [docs/examples/liar-paradox.md](docs/examples/liar-paradox.md)
+- **On distinction and the liar paradox** — how deconstructing the “observer” dissolves the paradox:
+  📄 [docs/distinction-liar-paradox.md](docs/distinction-liar-paradox.md)
 
 ---
 
