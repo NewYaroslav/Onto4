@@ -7,6 +7,8 @@ Consider a context `C₀` in which the following basic ontological assumption ho
 > **(Axiom 1: Distinction as a condition of truth)**
 > Any logical state (`true` or `false`) is possible **only when two different objects are distinguished** during comparison.
 
+Further justification for this principle can be found in the essay ["On Distinction and the Liar Paradox"](../distinction-liar-paradox.md).
+
 Formally:
 
 ```text
